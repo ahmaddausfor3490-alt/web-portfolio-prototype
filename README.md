@@ -69,7 +69,7 @@ app/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <repo-url>
 cd porto
 
 # Install dependencies
