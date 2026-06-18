@@ -112,19 +112,7 @@ npm start
 
 ## Deploy
 
-### Vercel (Recommended)
-
-The easiest way to deploy is via [Vercel](https://vercel.com).
-
-```bash
-npm i -g vercel
-vercel
-```
-
-### Other Platforms
-
-This is a statically-oriented Next.js app. It can be deployed on any platform that supports Node.js servers or static generation (Netlify, Railway, Cloudflare Pages, etc.).
-
+LINK PREVIEW > [PROTOTYPE](https://web-portfolio-prototype-pearl.vercel.app/)
 ## License
 
 Private — all rights reserved.
